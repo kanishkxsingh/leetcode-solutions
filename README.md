@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2652-sum-multiples](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/2652-sum-multiples/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
