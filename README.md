@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0912-sort-an-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
