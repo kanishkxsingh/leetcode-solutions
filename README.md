@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0912-sort-an-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
