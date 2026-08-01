@@ -2,7 +2,6 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         // jus sort the array, and then use 2 pointer logic... tc would be o(nlogn)+o(n) and sc would be o(1)....
         //for now les jus solve it in o(n^2)...
-        int answer[]=new int[2];
 
         for(int i=0;i<nums.length;i++)
         {
@@ -10,12 +9,11 @@ class Solution {
             {
                 if(nums[i]+nums[j]==target)
                 {
-                    answer[0]=i;
-                    answer[1]=j;
+                    return new int[] {i,j};
                 }
             }
         }
 
-        return answer;
+        return new int[] {0,0}; //this line is never reached and written only to satisfy java's thirst for a return for return type function......its never reached because solution guarantess "only 1 solution for each input".
     }
 }
