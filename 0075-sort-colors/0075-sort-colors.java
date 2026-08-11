@@ -31,3 +31,6 @@ class Solution {
         }
     }
 }
+
+//TIME COMPLEXITY = O(N)........ITS A SINGLE PASS ARRAY SOLUTION
+//SPACE COMPLEXITY = O(1)........NO EXTRA SPACE USED 
