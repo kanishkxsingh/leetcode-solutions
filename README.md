@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kanishkxsingh/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
